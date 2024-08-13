@@ -1,3 +1,4 @@
+networking/.bloop/*
 .cache/*
 networking/.metals/*
 networking/project/*
