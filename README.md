@@ -5,37 +5,33 @@ Ozone is a entirely self-developed blockchain compatiable with IPFS to ensure co
 
 ## Directory Structure
 
-- /ozone/
-    | block_arc/
-        | block.cpp
-        | blockchain.cpp
-        | hash_utils.cpp
-        | ipfs_utils.cpp
-        | main.cpp
-        | proof_of_work.cpp
-        | transaction.cpp
-    | include/ 
-        | block.hpp
-        | blockchain.hpp
-        | hash_utils.hpp
-        | ipfs_utils.hpp
-        | main.hpp
-        | proof_of_work.hpp
-        | transaction.hpp
-    | networking/
-        | build.sbt
-        | src/
-            | main/
-                |scala/
-                    | Main.scala
-                    | chain_network.scala
-                    | ipfs_actor.scala
-                    | ipfs_dispatch.scala
-                    | node_actor.scala
-    | CMakeLists.txt
-    | CMakeFiles/
-    | Makefile
-    | README.md 
+- /ozone/ \
+    | block_arc/ \
+        | block.cpp \
+        | blockchain.cpp \
+        | hash_utils.cpp \
+        | ipfs_utils.cpp \
+        | main.cpp \
+        | proof_of_work.cpp \
+        | transaction.cpp \
+    | include/ \
+        | block.hpp \
+        | blockchain.hpp \
+        | hash_utils.hpp \
+        | ipfs_utils.hpp \
+        | main.hpp \
+        | proof_of_work.hpp \
+        | transaction.hpp \
+    | networking/ \
+        | build.sbt \
+        | src/ \
+            | main/ \
+                |scala/ \
+                    | Main.scala \
+                    | ipfs_actor.scala \
+                    | ipfs_dispatch.scala \
+                    | node_actor.scala \
+    | README.md \
     | .gitignore
 
 ## Breakdown
