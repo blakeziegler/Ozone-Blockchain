@@ -1,0 +1,3 @@
+/Users/blakeziegler/tech/projects/zchain/CMakeFiles/ozone.dir
+/Users/blakeziegler/tech/projects/zchain/CMakeFiles/edit_cache.dir
+/Users/blakeziegler/tech/projects/zchain/CMakeFiles/rebuild_cache.dir
