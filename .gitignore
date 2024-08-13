@@ -1,3 +1,11 @@
+Makefile
+CMakeFiles/
+.DS_Store
+CMakeFiles
+CMakeLists.txt
+compile_commands.json
+*.pem
+
 # Prerequisites
 *.d
 
