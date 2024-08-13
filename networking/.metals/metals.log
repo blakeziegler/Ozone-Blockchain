@@ -3726,3 +3726,62 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2cbdaf0
 2024.08.12 22:15:30 INFO  time: compiled root in 0.1s[0m
 2024.08.12 22:18:43 INFO  compiling root (4 scala sources)[0m
 2024.08.12 22:18:43 INFO  time: compiled root in 0.11s[0m
+2024.08.13 00:56:08 INFO  Shutting down server[0m
+2024.08.13 00:56:08 INFO  shutting down Metals[0m
+2024.08.13 00:56:08 INFO  Shut down connection with build server.[0m
+2024.08.13 00:56:08 INFO  Shut down connection with build server.[0m
+2024.08.13 02:13:15 INFO  Started: Metals version 1.3.5 in folders '/Users/blakeziegler/tech/Projects/zchain/networking' for client Neovim 0.10.0-dev.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7d02465]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7efd159c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7d02465]
+2024.08.13 02:13:15 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.13 02:13:15 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 02:13:15 INFO  Attempting to connect to the build server...[0m
+2024.08.13 02:13:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/networking/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.08.13 02:13:18 INFO  Attempting to connect to the build server...[0m
+2024.08.13 02:13:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/networking/project/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.08.13 02:13:18 INFO  time: Connected to build server in 2.56s[0m
+2024.08.13 02:13:18 INFO  Connected to Build server: Bloop v1.6.0[0m
+2024.08.13 02:13:18 INFO  running doctor check[0m
+2024.08.13 02:13:18 INFO  java targets: root-test, networking-build, root[0m
+2024.08.13 02:13:20 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.08.13 02:13:20 INFO  time: indexed workspace in 2.8s[0m
+2024.08.13 02:13:28 INFO  skipping build import with status 'Installed'[0m
+2024.08.13 02:13:28 INFO  Disconnecting from Bloop session...[0m
+2024.08.13 02:13:28 INFO  Cancelling compilation on Bloop server[0m
+2024.08.13 02:13:28 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 02:13:28 INFO  Shut down connection with build server.[0m
+2024.08.13 02:13:28 INFO  Shut down connection with build server.[0m
+2024.08.13 02:13:28 INFO  Attempting to connect to the build server...[0m
+2024.08.13 02:13:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/networking/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.08.13 02:13:28 INFO  Attempting to connect to the build server...[0m
+2024.08.13 02:13:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/networking/project/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.08.13 02:13:28 INFO  time: Connected to build server in 51ms[0m
+2024.08.13 02:13:28 INFO  Connected to Build server: Bloop v1.6.0[0m
+2024.08.13 02:13:28 INFO  running doctor check[0m
+2024.08.13 02:13:28 INFO  java targets: root-test, networking-build, root[0m
+2024.08.13 02:13:30 INFO  time: indexed workspace in 1.47s[0m
+2024.08.13 02:15:13 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 02:15:13 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 02:15:13 WARN  Could not find semantic tokens for: file:///Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt[0m
+2024.08.13 02:18:19 INFO  skipping build import with status 'Installed'[0m
+2024.08.13 02:18:19 INFO  Disconnecting from Bloop session...[0m
+2024.08.13 02:18:19 INFO  Shut down connection with build server.[0m
+2024.08.13 02:18:19 INFO  Shut down connection with build server.[0m
+2024.08.13 02:18:19 WARN  no build target for: /Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt[0m
+2024.08.13 02:18:19 INFO  Attempting to connect to the build server...[0m
+2024.08.13 02:18:19 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 02:18:19 WARN  Could not find semantic tokens for: file:///Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt[0m
+2024.08.13 02:18:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/networking/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.08.13 02:18:19 INFO  Attempting to connect to the build server...[0m
+2024.08.13 02:18:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/networking/project/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2024.08.13 02:18:19 INFO  time: Connected to build server in 38ms[0m
+2024.08.13 02:18:19 INFO  Connected to Build server: Bloop v1.6.0[0m
+2024.08.13 02:18:20 INFO  running doctor check[0m
+2024.08.13 02:18:20 INFO  java targets: root-test, networking-build, root[0m
+2024.08.13 02:18:21 INFO  time: indexed workspace in 1.33s[0m
+2024.08.13 02:18:21 WARN  no build target for: /Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt[0m
+2024.08.13 02:18:21 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.08.13 02:18:21 WARN  Could not find semantic tokens for: file:///Users/blakeziegler/tech/Projects/zchain/networking/project/project/metals.sbt[0m

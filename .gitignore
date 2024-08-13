@@ -1,3 +1,6 @@
+.cache/*
+networking/.metals/*
+networking/project/*
 Makefile
 CMakeFiles/
 .DS_Store
