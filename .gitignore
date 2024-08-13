@@ -5,7 +5,9 @@ CMakeFiles
 CMakeLists.txt
 compile_commands.json
 *.pem
-
+CMakeCache.txt
+cmake_install.cmake
+./ozone
 # Prerequisites
 *.d
 
