@@ -29,7 +29,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 find_package(cpr REQUIRED)
 include_directories(${CPR_INCLUDE_DIRS})
 
-add_executable(ozone
+add_executable(zchain
     block_arc/main.cpp
     block_arc/block.cpp
     block_arc/blockchain.cpp
@@ -40,7 +40,7 @@ add_executable(ozone
 )
 
 # Link the OpenSSL libraries explicitly
-target_link_libraries(ozone
+target_link_libraries(zchain
     ${OPENSSL_ROOT_DIR}/lib/libssl.dylib
     ${OPENSSL_ROOT_DIR}/lib/libcrypto.dylib
     cpr::cpr
