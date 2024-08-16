@@ -1,6 +1,7 @@
 git_email
 git_email.pub
 conanfile.txt
+build/*
 CMakePresets.json
 networking/.bloop/*
 .cache/*

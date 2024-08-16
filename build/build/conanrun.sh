@@ -1,1 +1,0 @@
-. "/home/blakeziegler/Tech/projects/ozone/Ozone-Blockchain/build/build/conanrunenv-release-x86_64.sh"
