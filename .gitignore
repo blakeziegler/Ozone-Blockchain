@@ -1,3 +1,7 @@
+git_email
+git_email.pub
+conanfile.txt
+CMakePresets.json
 networking/.bloop/*
 .cache/*
 networking/.metals/*

@@ -1,7 +1,5 @@
 #include "block.hpp"
 #include "hash_utils.hpp"
-#include <__chrono/time_point.h>
-#include <sys/_types/_time_t.h>
 
 // construct block
 Block::Block(int idx,                      // init index
@@ -42,7 +40,6 @@ void Block::setMerkleRoot() {
       calculateMerkleRoot(contents); // call calculateMerkleRoot from hash_utils
 }
 std::string Block::getMerkleRoot() const { return merkleRoot; }
-
 
 // block printing params
 void Block::printBlock() const {
