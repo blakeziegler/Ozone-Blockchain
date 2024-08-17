@@ -22,7 +22,7 @@ Ozone is a entirely self-developed blockchain compatiable with IPFS to ensure co
 
  *see more in: OzoneDocs.md*
 
-## Instalation
+## Install
 
 Clone the Repository:
 ```
