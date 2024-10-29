@@ -95,3 +95,7 @@ INFO: Unsupported notification method: $/setTrace
 Oct 29, 2024 12:07:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2024.10.29 12:11:29 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct 29, 2024 12:22:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:22:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
