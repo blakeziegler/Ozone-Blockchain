@@ -1,5 +1,4 @@
 # Ozone Blockchain
-<<<<<<< HEAD
 =======
 ![v1.1.0](https://img.shields.io/badge/version-v1.1.0-blue)
 >>>>>>> f50c61bef20bf972a98c2511104e3bd08d5a37d8
