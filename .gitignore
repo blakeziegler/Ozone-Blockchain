@@ -12,6 +12,8 @@ compile_commands.json
 CMakeCache.txt
 cmake_install.cmake
 ./ozone
+/networking/src/main/scala/target*
+/Users/blakeziegler/tech/Projects/zchain/networking/target
 # Prerequisites
 *.d
 

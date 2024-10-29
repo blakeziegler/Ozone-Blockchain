@@ -1,0 +1,97 @@
+2024.10.29 12:02:11 INFO  Started: Metals version 1.4.0 in folders '/Users/blakeziegler/tech/Projects/zchain' for client Visual Studio Code 1.90.2.
+2024.10.29 12:02:11 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.29 12:02:11 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:11 INFO  Attempting to connect to the build server...
+2024.10.29 12:02:11 INFO  No running Bloop server found, starting one.
+Oct 29, 2024 12:02:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Oct 29, 2024 12:02:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.10.29 12:02:13 INFO  Starting compilation server
+2024.10.29 12:02:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/blakeziegler/tech/Projects/zchain/.metals/bsp.trace.json or /Users/blakeziegler/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.29 12:02:13 INFO  time: Connected to build server in 2.03s
+2024.10.29 12:02:13 INFO  Connected to Build server: Bloop v2.0.3
+2024.10.29 12:02:13 INFO  running doctor check
+2024.10.29 12:02:13 INFO  java targets: 
+2024.10.29 12:02:13 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.29 12:02:16 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:16 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:16 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:16 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:20 INFO  time: indexed workspace in 6.08s
+2024.10.29 12:02:20 WARN  no build target for: /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala
+2024.10.29 12:02:20 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:20 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:20 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:20 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:21 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:21 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:22 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:21 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:22 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:22 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:23 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:23 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:23 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:23 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:24 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:24 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:24 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:24 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:24 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:25 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:25 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:25 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:25 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:26 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:26 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:30 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:30 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:30 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:33 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:33 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:33 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:33 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:33 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:33 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:34 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:34 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:34 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:35 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:34 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:35 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:35 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:36 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:35 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:35 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:35 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:36 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:37 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:02:40 WARN  no build target for: /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala
+2024.10.29 12:02:40 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct 29, 2024 12:03:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:03:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:03:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:03:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:03:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.29 12:04:02 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:04:02 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:04:02 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:04:02 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:04:03 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct 29, 2024 12:04:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.29 12:04:34 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.29 12:04:34 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct 29, 2024 12:07:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:07:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 29, 2024 12:07:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.29 12:11:29 INFO  no build target found for /Users/blakeziegler/tech/Projects/zchain/networking/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4

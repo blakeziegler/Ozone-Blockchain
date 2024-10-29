@@ -14,11 +14,11 @@
 
 // Example keys
 const std::string privateKey = R"(-----BEGIN PRIVATE KEY-----
-**YOUR PRIVATE KEY**
+
 -----END PRIVATE KEY-----)";
 const std::string publicKey = R"(-----BEGIN PUBLIC KEY-----
-**YOUR PUBLIC KEY**
-----END PUBLIC KEY-----)";
+
+-----END PUBLIC KEY-----)";
 
 nlohmann::json block_to_json(const Block &block) {
     return {

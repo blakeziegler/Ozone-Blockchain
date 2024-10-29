@@ -1,8 +1,8 @@
 # Ozone Blockchain
-![v1.0.0](https://img.shields.io/badge/version-v1.0.0-blue)
 
 
-Ozone is a entirely self-developed blockchain compatiable with IPFS to ensure continued decentralization.
+
+Ozone is an entirely self-developed blockchain compatiable with IPFS to ensure continued decentralization.
 
 
 ## Breakdown
