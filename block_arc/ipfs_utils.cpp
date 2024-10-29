@@ -1,9 +1,9 @@
-#include "1.10.5/include/cpr/api.h"
-#include "1.10.5/include/cpr/body.h"
-#include "1.10.5/include/cpr/cprtypes.h"
-#include "1.10.5/include/cpr/multipart.h"
-#include "1.10.5/include/cpr/resolve.h"
-#include "1.10.5/include/cpr/response.h"
+#include <cpr/api.h>
+#include <cpr/body.h>
+#include <cpr/cprtypes.h>
+#include <cpr/multipart.h>
+#include <cpr/resolve.h>
+#include <cpr/response.h>
 #include "nlohmann/json_fwd.hpp"
 #include <cpr/cpr.h>
 #include <iostream>

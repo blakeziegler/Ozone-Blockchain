@@ -7,7 +7,7 @@
 #include <nlohmann/json.hpp>
 #include <stdexcept>
 #include <string>
-#include <sys/_types/_time_t.h>
+#include <syslog.h>
 #include <vector>
 
 class Block {
@@ -29,7 +29,6 @@ public:
 
   std::string hash;
   std::string nonce;
-  time_t timestamp;
 
 private:
   int idx;

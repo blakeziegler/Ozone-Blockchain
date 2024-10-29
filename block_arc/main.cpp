@@ -13,11 +13,19 @@
 
 
 // Example keys
+<<<<<<< HEAD
 const std::string privateKey = R"(-----BEGIN PRIVATE KEY-----
 
 -----END PRIVATE KEY-----)";
 const std::string publicKey = R"(-----BEGIN PUBLIC KEY-----
 
+=======
+const std::string privateKey = R"(-----BEGIN ENCRYPTED PRIVATE KEY-----
+*****COPY KEY HERE******
+-----END ENCRYPTED PRIVATE KEY-----)";
+const std::string publicKey = R"(-----BEGIN PUBLIC KEY-----
+*****COPY KEY HERE******
+>>>>>>> f50c61bef20bf972a98c2511104e3bd08d5a37d8
 -----END PUBLIC KEY-----)";
 
 nlohmann::json block_to_json(const Block &block) {
@@ -28,7 +36,6 @@ nlohmann::json block_to_json(const Block &block) {
         {"nonce", block.getNonce()},
         {"contents", block.getContents()},
         {"merkle_root", block.getMerkleRoot()},
-        {"timestamp", block.timestamp}
     };
 }
 int main() {
